@@ -20,7 +20,7 @@ A simple clipboard manager application built with Python using `tkinter` for the
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/clipboard-manager.git
+    git clone https://github.com/exampleex/clipboard-manager.git
     cd clipboard-manager
     ```
 
